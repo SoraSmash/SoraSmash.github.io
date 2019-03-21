@@ -91,7 +91,7 @@
 
     .article-list-vertical li > a{
         float: none;
-        width: 100%;
+        width: 65%;
     }
 
     .article-list-vertical li div{
