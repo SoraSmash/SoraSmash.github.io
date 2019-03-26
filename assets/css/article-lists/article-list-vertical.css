@@ -99,4 +99,8 @@
         padding: 30px;
     }
 
+    .article-list-vertical img{
+        width: 85%;
+    }
+
 }
